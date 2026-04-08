@@ -1,6 +1,6 @@
 # Vendornest
 
-Vendornest is a platform designed to connect vendors and customers seamlessly. This repository contains the source code for the Vendornest application.
+Vendornest is a platform to connect vendors and customers. This repository contains the source code for the application.
 
 ## Features
 - Vendor Dashboard
